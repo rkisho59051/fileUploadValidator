@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "file-upload-validation"
+    }
+  },
+  "defaultProject": "file-upload-validation",
+  "cli": {
+    "analytics": "d18e90cd-8891-4a10-9424-585f7b63d1a8"
+  }
 }
